@@ -68,12 +68,11 @@ Diretrizes de Envio
 Cronograma
 
 1.  Prazo de envio: 1 semana
-2.  Período de avaliação: [Insira a data e hora]
-3.  Anúncio dos resultados: [Insira a data e hora]
+2.  Período de avaliação: 3 dias
 
 Contato
 
-1.  E-mail: [Insira o e-mail]
+1.  E-mail: [Insira seu e-mail]
 2.  GitHub: [Insira o nome de usuário do GitHub]
 
 Licença\
